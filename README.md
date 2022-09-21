@@ -13,11 +13,11 @@ Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this 
 
 ## Installation Steps 
 **1. First clone the project by running** <br />
-   ``` git clone https://github.com/<your-username>/full-stack-ecommerce-shop.git ```
+   ``` git clone https://github.com/<your-username>/Realtor.git ```
 <br />
 
 **2. Go into thr project directory**  <br />
-   ``` cd full-stack-ecommerce-shop ``` 
+   ``` cd Realtor ``` 
    <br />
    
 **3. Install all the dependencies** <br />
