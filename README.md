@@ -16,7 +16,7 @@ Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this 
    ``` git clone https://github.com/<your-username>/Realtor.git ```
 <br />
 
-**2. Go into thr project directory**  <br />
+**2. Go into the project directory**  <br />
    ``` cd Realtor ``` 
    <br />
    
@@ -24,8 +24,13 @@ Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this 
     ``` npm i ``` 
     <br />
     
-**4. Start the application development server **<br />
+**4. Start the application development server**<br />
     ``` npm start ```
+
+<br /> 
+
+
+**The app is now running**
 <br />
 
 #### Don't forget to star this repository✨✨.
