@@ -13,7 +13,7 @@ Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this 
 
 ## Installation Steps 
 **1. First clone the project by running** <br />
-   ``` git clone https://github.com/<your-username>/Realtor.git ```
+   ``` git clone https://github.com/Exclusiveideas/Realtor.git ```
 <br />
 
 **2. Go into the project directory**  <br />
